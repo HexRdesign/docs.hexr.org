@@ -1,0 +1,25 @@
+# name of the software
+name: HexR Docs
+
+ui:
+    header:
+        color1: "#000"
+        color2: "#12374a"
+        trianglify: true
+
+social:
+    github:
+        enabled: false
+        user:
+        repo:
+    twitter:
+        enabled: false
+        via:
+        hash:
+        account:
+    facebook:
+        enabled: false
+        profileUrl:
+
+# Build settings
+markdown: kramdown
